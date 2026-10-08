@@ -1,0 +1,8 @@
+{'degree': 2, 'terms': 9, 'used': 9, 'train_mse': np.float64(20.095648359234655), 'cv_mse': np.float64(20.855699749796692)}
+{'degree': 4, 'terms': 34, 'used': 34, 'train_mse': np.float64(3.5878138213804704), 'cv_mse': np.float64(4.031529952787738)}
+{'degree': 6, 'terms': 83, 'used': 83, 'train_mse': np.float64(0.4728228619595993), 'cv_mse': np.float64(0.6499729231253172)}
+{'degree': 8, 'terms': 164, 'used': 164, 'train_mse': np.float64(0.17855058704756072), 'cv_mse': np.float64(0.27169594002474506)}
+{'degree': 10, 'terms': 285, 'used': 285, 'train_mse': np.float64(0.17304874612468688), 'cv_mse': np.float64(0.2573532144723171)}
+{'degree': 12, 'terms': 454, 'used': 454, 'train_mse': np.float64(0.1695351867516054), 'cv_mse': np.float64(0.25395936560008475)}
+{'degree': 16, 'terms': 968, 'used': 968, 'train_mse': np.float64(0.16485722511737116), 'cv_mse': np.float64(0.26698839830714377)}
+{'degree': 20, 'terms': 1770, 'used': 1770, 'train_mse': np.float64(0.15849517697984078), 'cv_mse': np.float64(0.2896286648426666)}

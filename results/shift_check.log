@@ -1,0 +1,14 @@
+weights by k [0.09 0.31 0.83 1.57 3.41 6.47 4.33]
+relaxed lasso deg 4 fit_weighted=False: best test-weighted mse 0.8995 (plain 0.6961) alpha 0.0200
+relaxed lasso deg 5 fit_weighted=False: best test-weighted mse 0.3524 (plain 0.3271) alpha 0.0200
+relaxed lasso deg 6 fit_weighted=False: best test-weighted mse 0.3838 (plain 0.3519) alpha 0.0316
+relaxed lasso deg 5 fit_weighted=True: best test-weighted mse 0.3882 (plain 0.3635) alpha 0.0398
+ridge deg 5 a=1: test-weighted mse 0.5943 (plain 0.5063)
+ridge deg 5 a=3: test-weighted mse 0.5411 (plain 0.4797)
+ridge deg 5 a=10: test-weighted mse 0.5954 (plain 0.5361)
+ridge deg 6 a=1: test-weighted mse 0.7019 (plain 0.6171)
+ridge deg 6 a=3: test-weighted mse 0.6122 (plain 0.5504)
+ridge deg 6 a=10: test-weighted mse 0.6323 (plain 0.5699)
+ridge deg 7 a=1: test-weighted mse 0.8431 (plain 0.6701)
+ridge deg 7 a=3: test-weighted mse 0.6625 (plain 0.5553)
+ridge deg 7 a=10: test-weighted mse 0.5814 (plain 0.5265)

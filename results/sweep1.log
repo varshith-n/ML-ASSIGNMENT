@@ -1,0 +1,8 @@
+{'degree': 1, 'n_terms': 6, 'ols': np.float64(9.088610378467887), 'ridge': np.float64(9.085707289471816), 'ridge_alpha': 10, 'relaxed_lasso': nan}
+{'degree': 2, 'n_terms': 27, 'ols': np.float64(3.0022311779616664), 'ridge': np.float64(3.00130317302269), 'ridge_alpha': 1, 'relaxed_lasso': nan}
+{'degree': 3, 'n_terms': 83, 'ols': np.float64(1.0692725127795957), 'ridge': np.float64(1.0605557168967255), 'ridge_alpha': 3, 'relaxed_lasso': np.float64(1.0553640325044118)}
+{'degree': 4, 'n_terms': 209, 'ols': np.float64(0.852349000101802), 'ridge': np.float64(0.7650780268296945), 'ridge_alpha': 3, 'relaxed_lasso': np.float64(0.6676114989031762)}
+{'degree': 5, 'n_terms': 461, 'ols': np.float64(1.633878838764128), 'ridge': np.float64(0.4906675838880267), 'ridge_alpha': 3, 'relaxed_lasso': np.float64(0.32419120609157054)}
+{'degree': 6, 'n_terms': 923, 'ols': nan, 'ridge': np.float64(0.5718845519510739), 'ridge_alpha': 3, 'relaxed_lasso': np.float64(0.3415186218499015)}
+{'degree': 7, 'n_terms': 1715, 'ols': nan, 'ridge': np.float64(0.560477330891463), 'ridge_alpha': 10, 'relaxed_lasso': nan}
+{'degree': 8, 'n_terms': 3002, 'ols': nan, 'ridge': np.float64(0.6445678648081323), 'ridge_alpha': 10, 'relaxed_lasso': nan}
